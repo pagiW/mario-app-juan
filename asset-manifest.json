@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/mario-app-juan/static/css/main.d60826b3.chunk.css",
+    "main.js": "/mario-app-juan/static/js/main.3aaa79c1.chunk.js",
+    "main.js.map": "/mario-app-juan/static/js/main.3aaa79c1.chunk.js.map",
+    "runtime-main.js": "/mario-app-juan/static/js/runtime-main.832be07a.js",
+    "runtime-main.js.map": "/mario-app-juan/static/js/runtime-main.832be07a.js.map",
+    "static/js/2.b59f67a2.chunk.js": "/mario-app-juan/static/js/2.b59f67a2.chunk.js",
+    "static/js/2.b59f67a2.chunk.js.map": "/mario-app-juan/static/js/2.b59f67a2.chunk.js.map",
+    "index.html": "/mario-app-juan/index.html",
+    "static/css/main.d60826b3.chunk.css.map": "/mario-app-juan/static/css/main.d60826b3.chunk.css.map",
+    "static/js/2.b59f67a2.chunk.js.LICENSE.txt": "/mario-app-juan/static/js/2.b59f67a2.chunk.js.LICENSE.txt",
+    "static/media/Logo-Emprenti-pequeño.abe68813.png": "/mario-app-juan/static/media/Logo-Emprenti-pequeño.abe68813.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.832be07a.js",
+    "static/js/2.b59f67a2.chunk.js",
+    "static/css/main.d60826b3.chunk.css",
+    "static/js/main.3aaa79c1.chunk.js"
+  ]
+}
